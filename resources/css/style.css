@@ -1,3 +1,10 @@
 body{
   font: Helvetica;
+  background-image:
+}
+.titlebar{
+  background-image: image("resources/images/Chester County AVOID logo");
+  background-color: lightblue;
+  text-align: center;
+  padding: 20px;
 }
