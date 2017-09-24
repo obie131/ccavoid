@@ -3,7 +3,7 @@ body{
   background-image:
 }
 .titlebar{
-  background-image: image("resources/images/Chester County AVOID logo");
+  background-image: url("resources/images/CCAVOID.jpeg");
   background-color: lightblue;
   text-align: center;
   padding: 20px;
