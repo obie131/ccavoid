@@ -1,10 +1,20 @@
+header{
+  background-color: black;
+  color: white;
+  text-align: center;
+
+
+
+
+}
+
 body{
   font: Helvetica;
-  background-image:
+  
 }
-.titlebar{
-  background-image: url("resources/images/CCAVOID.jpeg");
-  background-color: lightblue;
-  text-align: center;
-  padding: 20px;
+
+
+
+.coatesville{
+  background-image: url("https://i0.wp.com/attempttocode.files.wordpress.com/2017/09/coatesvillepd.png?ssl=1&w=450");
 }
